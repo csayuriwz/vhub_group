@@ -1,0 +1,97 @@
+import styled from "styled-components";
+
+export const Logo = styled.Image`
+    width: 200px;
+    height: 100px;
+    margin-top: 120px;
+    margin-bottom: 50px;
+    
+`
+export const LogoCreateAccount = styled.Image`
+    margin-bottom: 20px;
+    margin-top: 22%;
+`
+
+export const ImageModalRecord = styled.Image`
+    width: 285px;
+    height: 181px;
+    border-radius: 4px;
+`
+
+export const Seta = styled.Image`
+margin-right: 320px;
+margin-top: 100px;
+`
+
+export const Close = styled.Image`
+margin-right: 320px;
+margin-top: 100px;
+`
+
+export const ImagemPerfilPaciente = styled.Image`
+ width: 100%;
+ height: 308px;
+ margin-bottom: 27px;
+`
+
+export const ImagemHome = styled.Image`
+width: 60px;
+height: 60px;
+margin-top: 40px;
+margin-left: 9%;
+border-radius: 4px;
+`
+
+export const BoxImageHome = styled.TouchableOpacity`
+width: 62px;
+height: 62px;
+`
+
+export const IconBell = styled.Image`
+    width: 23px;
+    height: 26px;
+    align-self: center;
+`
+
+export const ImageCard = styled.Image`
+    width: 80px;
+    height: 86px;
+    border-radius: 6px;
+`
+
+export const PointCard = styled.Image`
+    margin-bottom: 6px;
+    margin-left: 0px;
+    margin-right: 0px;
+`
+
+export const MapImage = styled.Image`
+    width: 100%;
+    height: 370px;
+`
+
+export const ViewImage = styled.Image`
+width: 100%;
+height: 280px;
+margin-bottom: 20px;
+`
+
+
+
+export const BrandLogoWhite = styled.Image`
+    width:300px;
+    height:150px;
+  `
+
+export const ImagePrescriptionNull = styled.Image`
+    width: 220px;
+    height: 24px;
+    align-self: center;
+  `
+
+export const ImagePrescription = styled.Image`
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    align-self: center;
+`
